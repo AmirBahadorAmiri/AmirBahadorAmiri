@@ -34,8 +34,6 @@ Find me on ...
 <a href="https://instagram.com/AmirBahadorAmiri" target="_blank">
   <img width="32" height="32" alt="icons8_instagram_240px" src="https://github.com/user-attachments/assets/65ccc1d1-f0e2-4cb4-8835-f22e1797de52" />
 </a>
-<a href="mailto:bahadoramiri.report.@gmail.com" target="_blank">
+<a href="mailto:bahadoramiri.report@gmail.com" target="_blank">
   <img width="32" height="32" alt="icons8_Gmail_Logo_480px_1" src="https://github.com/user-attachments/assets/324be4fc-3382-47c5-8cf7-4e69c5215776" />
-</a>
-<a href="https://google.com" target="_blank">
 </a>
