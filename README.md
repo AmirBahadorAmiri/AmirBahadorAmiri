@@ -28,12 +28,6 @@
 ## <img width="20" height="20" alt="icons8_instagram_check_mark_240px" src="https://github.com/user-attachments/assets/f57102c6-e5f1-4774-95ff-7f3a096fc859" /> Contact us
 Find me on ...
 <br><br>
-<a href="https://t.me/AmirBahadorAmiri" target="_blank">
-  <img width="32" height="32" alt="icons8_telegram_app_240px" src="https://github.com/user-attachments/assets/7f021de2-c272-4104-8086-b189aea9490b" />
-</a>
-<a href="https://instagram.com/AmirBahadorAmiri" target="_blank">
-  <img width="32" height="32" alt="icons8_instagram_240px" src="https://github.com/user-attachments/assets/65ccc1d1-f0e2-4cb4-8835-f22e1797de52" />
-</a>
-<a href="mailto:bahadoramiri.report@gmail.com" target="_blank">
-  <img width="32" height="32" alt="icons8_Gmail_Logo_480px_1" src="https://github.com/user-attachments/assets/324be4fc-3382-47c5-8cf7-4e69c5215776" />
-</a>
+<a href="https://t.me/AmirBahadorAmiri" style="text-decoration: none;" target="_blank"><img width="120" height="40" alt="telegram" src="https://github.com/user-attachments/assets/06e24c89-3536-48d8-a852-c96d8860a4e9" /></a>
+<a href="https://instagram.com/AmirBahadorAmiri" style="text-decoration: none;" target="_blank"><img width="120" height="40" alt="instagram new" src="https://github.com/user-attachments/assets/25859c07-983b-4ff7-93ef-44899c87ea9f" /></a>
+<a href="mailto:bahadoramiri.report@gmail.com" title="Email"><img width="120" height="40" alt="gmail" src="https://github.com/user-attachments/assets/33744907-ba44-485c-b1e8-fae62c8290a8" /></a>
