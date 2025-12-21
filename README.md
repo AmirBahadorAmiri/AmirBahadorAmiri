@@ -31,3 +31,21 @@ Find me on ...
 <a href="https://t.me/AmirBahadorAmiri" style="text-decoration: none;" target="_blank"><img width="120" height="40" alt="telegram" src="https://github.com/user-attachments/assets/06e24c89-3536-48d8-a852-c96d8860a4e9" /></a>
 <a href="https://instagram.com/AmirBahadorAmiri" style="text-decoration: none;" target="_blank"><img width="120" height="40" alt="instagram new" src="https://github.com/user-attachments/assets/25859c07-983b-4ff7-93ef-44899c87ea9f" /></a>
 <a href="mailto:bahadoramiri.report@gmail.com" title="Email"><img width="120" height="40" alt="gmail" src="https://github.com/user-attachments/assets/33744907-ba44-485c-b1e8-fae62c8290a8" /></a>
+
+<br>
+
+## <img width="20" height="20" alt="icons8_flash_on_480px" src="https://github.com/user-attachments/assets/684f34bb-880c-40b6-b7f8-bf5131caabb2" /> My GitHub Stats
+<a href="http://www.github.com/AmirBahadorAmiri"><img src="https://github-readme-stats.vercel.app/api?username=AmirBahadorAmiri&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AmirBahadorAmiri's GitHub stats" /></a>
+<br>
+<a href="https://github.com/AmirBahadorAmiri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBahadorAmiri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
+## Top Repositories
+
+<div width="100%" align="center">
+ 
+ <a href="https://github.com/AmirBahadorAmiri/AppleNote" align="left">
+ <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirBahadorAmiri&repo=AppleNote&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+ </a>
+ 
+</div>
+<br /><br />
