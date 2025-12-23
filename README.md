@@ -4,6 +4,7 @@
 - 🕛 14 SEPT 2000 (1379/06/24)
 - ⌚ Tehran (+3:30)
 <br><br>
+
 ## <img width="20" height="20" alt="icons8_student_male_240px" src="https://github.com/user-attachments/assets/10d474c6-6c19-4244-95f5-c7815b382b80" /> Knowledge
 - <img width="20" height="20" alt="icons8_android_os_480px" src="https://github.com/user-attachments/assets/f1b08617-8200-4f59-90a7-48777a2c81e6" /> Android - <img width="20" height="20" alt="icons8_java_480px" src="https://github.com/user-attachments/assets/7f6d8c66-c1cd-459c-b55c-92e3b36b6e57" /> Java - <img width="20" height="20" alt="icons8_kotlin_480px" src="https://github.com/user-attachments/assets/7b591d25-6aec-4750-ab36-e1605aeedd9d" /> Kotlin - <img width="20" height="20" alt="icons8_m_480px" src="https://github.com/user-attachments/assets/f77f219d-f4d5-46c1-baef-1b459e9f2c90" /><img width="20" height="20" alt="icons8_v_480px" src="https://github.com/user-attachments/assets/7717e09c-32f2-4fb1-b37e-b33665bd5813" /><img width="20" height="20" alt="icons8_c_480px" src="https://github.com/user-attachments/assets/1d35ac2d-c441-4622-8225-ad3d83b9ba8a" /> <img width="20" height="20" alt="icons8_subtract_480px" src="https://github.com/user-attachments/assets/4e121dfe-aa3f-40c5-8d2e-62b8a74d1e42" />
  <img width="20" height="20" alt="icons8_m_480px" src="https://github.com/user-attachments/assets/f77f219d-f4d5-46c1-baef-1b459e9f2c90" /><img width="20" height="20" alt="icons8_v_480px" src="https://github.com/user-attachments/assets/7717e09c-32f2-4fb1-b37e-b33665bd5813" /><img width="20" height="20" alt="icons8_p_480px" src="https://github.com/user-attachments/assets/510fc325-33a6-4e1a-8023-9e571408db54" /> <img width="20" height="20" alt="icons8_subtract_480px" src="https://github.com/user-attachments/assets/4e121dfe-aa3f-40c5-8d2e-62b8a74d1e42" /> <img width="20" height="20" alt="icons8_m_480px" src="https://github.com/user-attachments/assets/f77f219d-f4d5-46c1-baef-1b459e9f2c90" /><img width="20" height="20" alt="icons8_v_480px" src="https://github.com/user-attachments/assets/7717e09c-32f2-4fb1-b37e-b33665bd5813" /><img width="20" height="20" alt="icons8_v_480px" src="https://github.com/user-attachments/assets/7717e09c-32f2-4fb1-b37e-b33665bd5813" /><img width="20" height="20" alt="icons8_m_480px" src="https://github.com/user-attachments/assets/f77f219d-f4d5-46c1-baef-1b459e9f2c90" />
@@ -22,21 +23,26 @@ Find me on ...
 
 <br>
 
-## <img width="20" height="20" alt="icons8_flash_on_480px" src="https://github.com/user-attachments/assets/684f34bb-880c-40b6-b7f8-bf5131caabb2" /> My GitHub Stats
-<a href="http://www.github.com/AmirBahadorAmiri"><img src="https://github-readme-stats.vercel.app/api?username=AmirBahadorAmiri&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AmirBahadorAmiri's GitHub stats" /></a>
+## <img width="20" height="20" alt="icons8_flash_on_480px" src="https://github.com/user-attachments/assets/684f34bb-880c-40b6-b7f8-bf5131caabb2" /> GitHub Stats
+<a href="https://github.com/AmirBahadorAmiri">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirBahadorAmiri&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=1B9DE2&text_color=e0cece&icon_color=B07219&bg_color=1c1917" alt="AmirBahadorAmiri GitHub Stats" /></a>
+
+<a href="https://github.com/AmirBahadorAmiri">
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBahadorAmiri&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=1B9DE2&text_color=e0cece&icon_color=B07219&bg_color=1c1917&langs_count=20" alt="AmirBahadorAmiri GitHub Stats" />
+</a>
+
 <br>
-<a href="https://github.com/AmirBahadorAmiri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBahadorAmiri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<br>
+
 ## Top Repositories
 
 <div width="100%" align="center">
  
  <a href="https://github.com/AmirBahadorAmiri/AppleNote" align="left">
- <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirBahadorAmiri&repo=AppleNote&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+ <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirBahadorAmiri&repo=AppleNote&title_color=1B9DE2&text_color=ffffff&icon_color=B07219&bg_color=1c1917&hide_border=true&locale=en" />
  </a>
 
  <a href="https://github.com/AmirBahadorAmiri/AndroidLearning" align="right">
- <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirBahadorAmiri&repo=AndroidLearning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+ <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirBahadorAmiri&repo=AndroidLearning&title_color=1B9DE2&text_color=ffffff&icon_color=B07219&bg_color=1c1917&hide_border=true&locale=en" />
  </a>
  
 </div>
