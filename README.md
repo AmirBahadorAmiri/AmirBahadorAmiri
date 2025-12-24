@@ -18,7 +18,6 @@
 Find me on ...
 <br><br>
 <a href="https://t.me/AmirBahadorAmiri" style="text-decoration: none;" target="_blank"><img width="120" height="40" alt="telegram" src="https://github.com/user-attachments/assets/06e24c89-3536-48d8-a852-c96d8860a4e9" /></a>
-<a href="https://instagram.com/AmirBahadorAmiri" style="text-decoration: none;" target="_blank"><img width="120" height="40" alt="instagram new" src="https://github.com/user-attachments/assets/25859c07-983b-4ff7-93ef-44899c87ea9f" /></a>
 <a href="mailto:bahadoramiri.report@gmail.com" title="Email"><img width="120" height="40" alt="gmail" src="https://github.com/user-attachments/assets/33744907-ba44-485c-b1e8-fae62c8290a8" /></a>
 
 <br>
