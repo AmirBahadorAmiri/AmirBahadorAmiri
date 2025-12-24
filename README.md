@@ -22,15 +22,6 @@ Find me on ...
 
 <br>
 
-## <img width="20" height="20" alt="icons8_flash_on_480px" src="https://github.com/user-attachments/assets/684f34bb-880c-40b6-b7f8-bf5131caabb2" /> GitHub Stats
-<a href="https://github.com/AmirBahadorAmiri">
-  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=AmirBahadorAmiri&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=1B9DE2&text_color=e0cece&icon_color=B07219&bg_color=1c1917" alt="AmirBahadorAmiri GitHub Stats" /></a>
-
-<a href="https://github.com/AmirBahadorAmiri">
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBahadorAmiri&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=1B9DE2&text_color=e0cece&icon_color=B07219&bg_color=1c1917&langs_count=20" alt="AmirBahadorAmiri GitHub Stats" />
-</a>
-<br>
-
 ## Top Repositories
 
 <div width="100%" align="center">
