@@ -19,22 +19,3 @@ Find me on ...
 <br><br>
 <a href="https://t.me/AmirBahadorAmiri" style="text-decoration: none;" target="_blank"><img width="120" height="40" alt="telegram" src="https://github.com/user-attachments/assets/06e24c89-3536-48d8-a852-c96d8860a4e9" /></a>
 <a href="mailto:bahadoramiri.report@gmail.com" title="Email"><img width="120" height="40" alt="gmail" src="https://github.com/user-attachments/assets/33744907-ba44-485c-b1e8-fae62c8290a8" /></a>
-
-<br>
-
-## Top Repositories
-
-<div width="100%" align="center">
- 
- <a href="https://github.com/AmirBahadorAmiri/AppleNote" align="left">
- <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirBahadorAmiri&repo=AppleNote&title_color=1B9DE2&text_color=ffffff&icon_color=B07219&bg_color=1c1917&hide_border=true&locale=en" />
- </a>
-
- <a href="https://github.com/AmirBahadorAmiri/AndroidLearning" align="right">
- <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirBahadorAmiri&repo=AndroidLearning&title_color=1B9DE2&text_color=ffffff&icon_color=B07219&bg_color=1c1917&hide_border=true&locale=en" />
- </a>
- 
-</div>
-<br /><br />
-
-<img src="https://camo.githubusercontent.com/f84ebda4e5f6b42aec583572e335c4eced3ce4537799639ada08b478d5dd0005/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d303a4646303035432c35303a4236324246462c3130303a3134313332312673656374696f6e3d666f6f74657226726576657273616c3d74727565" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=0:FF005C,50:B62BFF,100:141321&amp;section=footer&amp;reversal=true" style="max-width: 100%;">
