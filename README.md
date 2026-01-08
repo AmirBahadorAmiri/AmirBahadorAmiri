@@ -14,8 +14,7 @@
 - <img width="20" height="20" alt="icons8_davinci_resolve_480px" src="https://github.com/user-attachments/assets/da869d6a-e489-4b00-a000-ddbd9dccdb32" /> UI-UX Designer - <img width="20" height="20" alt="icons8_adobe_xd_480px" src="https://github.com/user-attachments/assets/46344c97-597b-4c72-a9be-9713fde9fbfd" /> Adobe XD - <img width="20" height="20" alt="icons8_figma_480px" src="https://github.com/user-attachments/assets/98b6b90e-6823-4d4b-b087-e091cc94d6ef" /> Figma - <img width="20" height="20" alt="icons8_adobe_photoshop_480px" src="https://github.com/user-attachments/assets/13ab6b13-2e06-4123-91f5-e33bff71ec2a" /> Photoshop
 
 <br><br>
-## <img width="20" height="20" alt="icons8_instagram_check_mark_240px" src="https://github.com/user-attachments/assets/f57102c6-e5f1-4774-95ff-7f3a096fc859" /> Contact us
-Find me on ...
+## <img width="20" height="20" alt="icons8_instagram_check_mark_240px" src="https://github.com/user-attachments/assets/f57102c6-e5f1-4774-95ff-7f3a096fc859" /> Connect with Me :)
 <br><br>
 <a href="https://t.me/AmirBahadorAmiri" style="text-decoration: none;" target="_blank"><img width="120" height="40" alt="telegram" src="https://github.com/user-attachments/assets/06e24c89-3536-48d8-a852-c96d8860a4e9" /></a>
-<a href="mailto:bahadoramiri.report@gmail.com" title="Email"><img width="120" height="40" alt="gmail" src="https://github.com/user-attachments/assets/33744907-ba44-485c-b1e8-fae62c8290a8" /></a>
+<a href="mailto:bahadoramiri.report@gmail.com"><img src="https://camo.githubusercontent.com/3f81068f5cdc0e07b6bf433d534c01784f60e2a89e39a98f6187b5eb5416fa83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" width="120" height="40"></a>
