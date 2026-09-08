@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/graph?username=AmirBahadorAmiri&theme=gotham&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirBahadorAmiri&theme=gotham&hide_border=true"/>
 
 </div>
 
