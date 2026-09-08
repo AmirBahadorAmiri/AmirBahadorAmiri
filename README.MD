@@ -1,2 +1,36 @@
 # Hello World!
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirBahadorAmiri&theme=gotham&hide_border=false)
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AmirBahadorAmiri&theme=gotham&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirBahadorAmiri&theme=gotham&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Profile Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirBahadorAmiri&theme=gotham"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmirBahadorAmiri&theme=gotham"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmirBahadorAmiri&theme=gotham"/>
+
+</div>
