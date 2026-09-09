@@ -9,16 +9,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirBahadorAmiri&theme=gotham&hide_border=true"/>
-
-</div>
-
----
-
 # ⚡ Profile Summary Cards
 
 <div align="center">
