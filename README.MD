@@ -24,13 +24,13 @@ I build Android apps, backend systems, and web tools — from idea to release.
 
 | Area | Tools |
 |------|-------|
-| Android | Java, Kotlin |
-| Web / Backend | PHP, HTML, CSS, JavaScript |
-| Design | Adobe XD, UI/UX Design |
-| OS | Windows, Linux |
-| IDE / Editor | Android Studio, PhpStorm, VS Code |
-| Version Control | Git, GitHub, GitHub Desktop, GitKraken, SmartGit, GitForce, Sourcetree, TortoiseGit, Fork, Tower |
-| API Tools | Postman, Bruno, Yaak, HTTPie |
+| Android | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) |
+| Web / Backend | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| Design | ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobexd&logoColor=white) |
+| OS | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| IDE / Editor | ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+| Version Control | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitHub Desktop](https://img.shields.io/badge/-GitHub_Desktop-8034A9?style=flat&logo=github&logoColor=white) ![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white) ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white) ![TortoiseGit](https://img.shields.io/badge/-TortoiseGit-5378C3?style=flat) ![Fork](https://img.shields.io/badge/-Fork-191919?style=flat) ![Tower](https://img.shields.io/badge/-Tower-000000?style=flat) ![SmartGit](https://img.shields.io/badge/-SmartGit-6D9C26?style=flat) ![GitForce](https://img.shields.io/badge/-GitForce-009ACA?style=flat) |
+| API Tools | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Bruno](https://img.shields.io/badge/-Bruno-F08528?style=flat&logo=bruno&logoColor=white) ![Yaak](https://img.shields.io/badge/-Yaak-FF5C00?style=flat) ![HTTPie](https://img.shields.io/badge/-HTTPie-73DC8C?style=flat&logo=httpie&logoColor=white) |
 
 ## 📌 Pinned Projects
 
