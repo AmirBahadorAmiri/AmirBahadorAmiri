@@ -7,7 +7,7 @@ I build Android apps, backend systems, and web tools — from idea to release.
 
 ![Followers](https://img.shields.io/github/followers/AmirBahadorAmiri?style=flat&logo=github)
 ![Stars](https://img.shields.io/github/stars/AmirBahadorAmiri?style=flat)
-![Repos](https://img.shields.io/badge/AmirBahadorAmiri?style=flat&logo=github)
+![Repos](https://img.shields.io/github/AmirBahadorAmiri?style=flat&logo=github)
 
 ## 🧑‍💻 About Me
 
